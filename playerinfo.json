@@ -1,0 +1,370 @@
+{
+    "201939": {
+        "resource": "commonplayerinfo",
+        "parameters": [
+        {
+            "PlayerID": 201939
+        },
+        {
+            "LeagueID": "00"
+        }
+        ],
+        "resultSets": [
+        {
+            "name": "CommonPlayerInfo",
+            "headers": [
+            "PERSON_ID",
+            "FIRST_NAME",
+            "LAST_NAME",
+            "DISPLAY_FIRST_LAST",
+            "DISPLAY_LAST_COMMA_FIRST",
+            "DISPLAY_FI_LAST",
+            "PLAYER_SLUG",
+            "BIRTHDATE",
+            "SCHOOL",
+            "COUNTRY",
+            "LAST_AFFILIATION",
+            "HEIGHT",
+            "WEIGHT",
+            "SEASON_EXP",
+            "JERSEY",
+            "POSITION",
+            "ROSTERSTATUS",
+            "GAMES_PLAYED_CURRENT_SEASON_FLAG",
+            "TEAM_ID",
+            "TEAM_NAME",
+            "TEAM_ABBREVIATION",
+            "TEAM_CODE",
+            "TEAM_CITY",
+            "PLAYERCODE",
+            "FROM_YEAR",
+            "TO_YEAR",
+            "DLEAGUE_FLAG",
+            "NBA_FLAG",
+            "GAMES_PLAYED_FLAG",
+            "DRAFT_YEAR",
+            "DRAFT_ROUND",
+            "DRAFT_NUMBER"
+            ],
+            "rowSet": [
+            [
+                201939,
+                "Stephen",
+                "Curry",
+                "Stephen Curry",
+                "Curry, Stephen",
+                "S. Curry",
+                "stephen-curry",
+                "1988-03-14T00:00:00",
+                "Davidson",
+                "USA",
+                "Davidson/USA",
+                "6-3",
+                "185",
+                11,
+                "30",
+                "Guard",
+                "Active",
+                "Y",
+                1610612744,
+                "Warriors",
+                "GSW",
+                "warriors",
+                "Golden State",
+                "stephen_curry",
+                2009,
+                2020,
+                "N",
+                "Y",
+                "Y",
+                "2009",
+                "1",
+                "7"
+            ]
+            ]
+        },
+        {
+            "name": "PlayerHeadlineStats",
+            "headers": [
+            "PLAYER_ID",
+            "PLAYER_NAME",
+            "TimeFrame",
+            "PTS",
+            "AST",
+            "REB",
+            "PIE"
+            ],
+            "rowSet": [
+            [
+                201939,
+                "Stephen Curry",
+                "2020-21",
+                29.9,
+                5.9,
+                5.4,
+                0.182
+            ]
+            ]
+        },
+        {
+            "name": "AvailableSeasons",
+            "headers": [
+            "SEASON_ID"
+            ],
+            "rowSet": [
+            [
+                "12009"
+            ],
+            [
+                "22009"
+            ],
+            [
+                "12010"
+            ],
+            [
+                "22010"
+            ],
+            [
+                "12011"
+            ],
+            [
+                "22011"
+            ],
+            [
+                "12012"
+            ],
+            [
+                "22012"
+            ],
+            [
+                "42012"
+            ],
+            [
+                "12013"
+            ],
+            [
+                "22013"
+            ],
+            [
+                "32013"
+            ],
+            [
+                "42013"
+            ],
+            [
+                "12014"
+            ],
+            [
+                "22014"
+            ],
+            [
+                "32014"
+            ],
+            [
+                "42014"
+            ],
+            [
+                "12015"
+            ],
+            [
+                "22015"
+            ],
+            [
+                "32015"
+            ],
+            [
+                "42015"
+            ],
+            [
+                "12016"
+            ],
+            [
+                "22016"
+            ],
+            [
+                "32016"
+            ],
+            [
+                "42016"
+            ],
+            [
+                "12017"
+            ],
+            [
+                "22017"
+            ],
+            [
+                "32017"
+            ],
+            [
+                "42017"
+            ],
+            [
+                "12018"
+            ],
+            [
+                "22018"
+            ],
+            [
+                "32018"
+            ],
+            [
+                "42018"
+            ],
+            [
+                "22019"
+            ],
+            [
+                "12020"
+            ],
+            [
+                "22020"
+            ]
+            ]
+        }
+        ]
+    },
+    "1629029": {      
+        "resource": "commonplayerinfo",
+        "parameters": [
+            {
+            "PlayerID": 1629029
+            },
+            {
+            "LeagueID": "00"
+            }
+        ],
+        "resultSets": [
+            {
+            "name": "CommonPlayerInfo",
+            "headers": [
+                "PERSON_ID",
+                "FIRST_NAME",
+                "LAST_NAME",
+                "DISPLAY_FIRST_LAST",
+                "DISPLAY_LAST_COMMA_FIRST",
+                "DISPLAY_FI_LAST",
+                "PLAYER_SLUG",
+                "BIRTHDATE",
+                "SCHOOL",
+                "COUNTRY",
+                "LAST_AFFILIATION",
+                "HEIGHT",
+                "WEIGHT",
+                "SEASON_EXP",
+                "JERSEY",
+                "POSITION",
+                "ROSTERSTATUS",
+                "GAMES_PLAYED_CURRENT_SEASON_FLAG",
+                "TEAM_ID",
+                "TEAM_NAME",
+                "TEAM_ABBREVIATION",
+                "TEAM_CODE",
+                "TEAM_CITY",
+                "PLAYERCODE",
+                "FROM_YEAR",
+                "TO_YEAR",
+                "DLEAGUE_FLAG",
+                "NBA_FLAG",
+                "GAMES_PLAYED_FLAG",
+                "DRAFT_YEAR",
+                "DRAFT_ROUND",
+                "DRAFT_NUMBER"
+            ],
+            "rowSet": [
+                [
+                1629029,
+                "Luka",
+                "Doncic",
+                "Luka Doncic",
+                "Doncic, Luka",
+                "L. Doncic",
+                "luka-doncic",
+                "1999-02-28T00:00:00",
+                "Real Madrid",
+                "Slovenia",
+                "Real Madrid/Slovenia",
+                "6-7",
+                "230",
+                2,
+                "77",
+                "Forward-Guard",
+                "Active",
+                "Y",
+                1610612742,
+                "Mavericks",
+                "DAL",
+                "mavericks",
+                "Dallas",
+                "luka_don",
+                2018,
+                2020,
+                "N",
+                "Y",
+                "Y",
+                "2018",
+                "1",
+                "3"
+                ]
+            ]
+            },
+            {
+            "name": "PlayerHeadlineStats",
+            "headers": [
+                "PLAYER_ID",
+                "PLAYER_NAME",
+                "TimeFrame",
+                "PTS",
+                "AST",
+                "REB",
+                "PIE"
+            ],
+            "rowSet": [
+                [
+                1629029,
+                "Luka Doncic",
+                "2020-21",
+                28.5,
+                9.4,
+                8.7,
+                0.187
+                ]
+            ]
+            },
+            {
+            "name": "AvailableSeasons",
+            "headers": [
+                "SEASON_ID"
+            ],
+            "rowSet": [
+                [
+                "12018"
+                ],
+                [
+                "22018"
+                ],
+                [
+                "12019"
+                ],
+                [
+                "22019"
+                ],
+                [
+                "32019"
+                ],
+                [
+                "42019"
+                ],
+                [
+                "12020"
+                ],
+                [
+                "22020"
+                ]
+            ]
+            }
+        ]
+          
+    }
+    
+  }
